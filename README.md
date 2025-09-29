@@ -1,5 +1,3 @@
-+
-
 ## Project info
 
 **URL**: https://parthekbote-gules.vercel.app/
